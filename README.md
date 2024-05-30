@@ -1,7 +1,7 @@
-# Invoice Generator
+# PDF Invoice Generator
 
 ## Description
-The Invoice Generator is a versatile tool designed to simplify the process of creating professional PDF invoices from user input. Whether you're a freelancer, small business owner, or simply need to generate invoices on the fly, this project offers a seamless solution.
+The PDF Invoice Generator is a versatile tool designed to simplify the process of creating professional PDF invoices from user input. Whether you're a freelancer, small business owner, or simply need to generate invoices on the fly, this project offers a seamless solution.
 
 ## Key Features
 - **User-friendly Interface**: Easily input invoice details through a simple interface.
@@ -25,4 +25,4 @@ The Invoice Generator is a versatile tool designed to simplify the process of cr
 Contributions are welcome! If you have ideas for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the  creater Vaibhav Charan. 
