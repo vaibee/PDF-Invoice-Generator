@@ -25,4 +25,4 @@ The PDF Invoice Generator is a versatile tool designed to simplify the process o
 Contributions are welcome! If you have ideas for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the  creater Vaibhav Charan. 
+This project is licensed under the  creator Vaibhav Charan. 
